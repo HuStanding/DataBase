@@ -514,7 +514,7 @@ FROM mytable
 ORDER BY col COLLATE latin1_general_ci;
 ```
 
-# 二十三、权限管理
+# 23.权限管理
 
 MySQL 的账户信息保存在 mysql 这个数据库中。
 
